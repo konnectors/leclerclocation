@@ -3,6 +3,7 @@ node_js:
 - '16.18.1'
 env:
   global:
+  - DEPLOY_REPOSITORY="git@github.com:konnectors/leclerclocation.git"
   - MATTERMOST_CHANNEL=publication
   # REGISTRY_TOKEN(editor=cozy, app=leclerclocation)
   - secure: xgiwmbBHFz7/8WkhWSLJOp6lPCNsghBozIY++r5JQbvmt0xH3dYv4eZcblL6N9ia8M1At8CKCSwISCwB3VoFb7KsETtqpj2Wc9TjsXVCt84IFApS8Cl3ShJvPDExyu9C1n+2HBAxw3iCat4z3QHSdpe9Wl01M9cP0b6ksNdc6uHulIfuSCoOh3vYmYwtB+wEskNRXpmLdc4uFYRpDwKp9016G4vLsWRbaY/eX6OLXb12JbbFaukYbUc5vMoUgESNbU2ySmsgcT9MsiQ3c5PFXXkWg9lEMP4ve6dPd2eLJVCBFQMdtKnB3PNzppZ5qMiKOKVNEHhrKo0VXSrKMZhYsfuh3xicYBSSefJCN/iorGgRYli+XzSBU5jPv5blI0FNUtt6ULxoxY4hf77JMRHbCejhMZSHOzwyX9F2qi3wu56uvmlJscXXGYrxGeVk+cBFdFA/U0lwIsOOtH+taT6aJH5Blo1P9JV1irTX2S1rH+Ysb/Ns56Ssp9mQQvbq9lPXbfI/cpTo+PVpGn/yW+MVG832GfwdL0DSzy0DF6Ywouoy5Py8911vi3VkQaU2iBZ6VOoFh8QmGyhMT/XMhcHGMuafq9mFdJLdYuxZAJMB4uB7hSxXWS7ScsoI8hEK5d1ipBlOn+Ps11IF75YaqkyfBXEkx/LRLXsIMNe9yyiMkRE=
